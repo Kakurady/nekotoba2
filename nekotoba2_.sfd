@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1297048171
-ModificationTime: 1449756648
+ModificationTime: 1449758141
 PfmFamily: 65
 TTFWeight: 500
 TTFWidth: 5
@@ -45,16 +45,25 @@ OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0"  {"'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-2" [153,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 7 3 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-2" 
+KernClass2: 14 5 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-2" 
  1 P
  1 F
  1 T
  1 V
  1 W
  1 Y
+ 1 f
+ 1 y
+ 5 slash
+ 9 universal
+ 8 integral
+ 1 N
+ 1 D
  12 comma period
- 28 zero four nine a c e g o q z
- 0 {} 0 {} 0 {} 0 {} -118 {} -55 {} 0 {} 0 {} -41 {} 0 {} 0 {} -150 {} 0 {} -185 {} -230 {} 0 {} -91 {} -83 {} 0 {} -54 {} -128 {}
+ 30 zero four nine a c d e g o q z
+ 19 m n p r s t u v w x
+ 11 slash A M X
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -118 {} -55 {} 0 {} -95 {} 0 {} -55 {} -78 {} -37 {} -69 {} 0 {} -109 {} -150 {} -96 {} -150 {} 0 {} -185 {} -230 {} -82 {} -164 {} 0 {} -91 {} -83 {} 0 {} -68 {} 0 {} -54 {} -128 {} -27 {} -109 {} 0 {} -82 {} -109 {} -27 {} -68 {} 0 {} 0 {} -55 {} 0 {} -82 {} 0 {} -122 {} -103 {} -27 {} -123 {} 0 {} -55 {} -150 {} -96 {} -137 {} 0 {} -14 {} -84 {} -74 {} -123 {} 0 {} 0 {} -41 {} 0 {} 0 {} 0 {} -55 {} -55 {} -14 {} -95 {}
 LangName: 1033 
 Encoding: UnicodeBmp
 Compacted: 1
@@ -64,7 +73,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 129
-WinInfo: 437 23 13
+WinInfo: 23 23 13
 BeginPrivate: 1
 BlueValues 32 [-56 16 407 444 562 609 635 687]
 EndPrivate
@@ -165,6 +174,7 @@ SplineSet
  568 -79 520 -50 517 -33 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 24 -80 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: B
@@ -231,7 +241,7 @@ EndChar
 
 StartChar: C
 Encoding: 67 67 3
-Width: 612
+Width: 556
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -273,7 +283,7 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 4
-Width: 682
+Width: 661
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -511,7 +521,7 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 8
-Width: 482
+Width: 548
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -883,12 +893,12 @@ SplineSet
  593 681 602 679 603 673 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 26 -176 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 26 -102 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: O
 Encoding: 79 79 17
-Width: 748
+Width: 728
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -938,6 +948,7 @@ SplineSet
  288 532 287 533 286 533 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 26 -117 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  25 -24 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: P
@@ -993,7 +1004,7 @@ EndChar
 
 StartChar: Q
 Encoding: 81 81 19
-Width: 716
+Width: 667
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -1113,7 +1124,7 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 21
-Width: 699
+Width: 627
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -1386,7 +1397,7 @@ EndChar
 
 StartChar: Y
 Encoding: 89 89 27
-Width: 635
+Width: 611
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -1423,7 +1434,7 @@ EndChar
 
 StartChar: Z
 Encoding: 90 90 28
-Width: 730
+Width: 679
 VWidth: 0
 Flags: HMW
 LayerCount: 2
@@ -2264,7 +2275,7 @@ SplineSet
  260 416 l 2
 EndSplineSet
 Validated: 1
-Kerns2: 52 -33 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  52 -44 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -165 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 37 -31 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  52 -33 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  52 -44 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -165 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: o
@@ -5312,7 +5323,9 @@ StartChar: universal
 Encoding: 8704 8704 116
 Width: 703
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -50 21G<257.5 284> 315 90<183 383>
+VStem: -0 89<544 612.236> 543 81<688.762 738.271>
 LayerCount: 2
 Fore
 SplineSet
@@ -5637,16 +5650,18 @@ StartChar: integral
 Encoding: 8747 8747 123
 Width: 556
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -57 20G<61.5 77.5> 606 117<394.301 455.916>
+VStem: 232 91<79.5185 320.469 325.062 612.99> 244 92<126.877 515.469>
 LayerCount: 2
 Fore
 SplineSet
-424 608 m 0
+424 608 m 0xe0
  416 617 407 623 396 628 c 0
  387 631 377 631 367 629 c 0
  357 626 349 618 343 610 c 0
  332 593 329 572 326 553 c 0
- 324 540 323 528 323 515 c 0
+ 324 540 323 528 323 515 c 0xe0
  323 495 325 475 327 455 c 0
  332 411 336 367 336 323 c 0
  336 269 329 215 321 161 c 0
@@ -5665,7 +5680,7 @@ SplineSet
  144 -61 154 -53 161 -43 c 0
  177 -19 188 8 197 36 c 0
  211 81 224 128 231 175 c 0
- 238 224 244 273 244 323 c 0
+ 238 224 244 273 244 323 c 0xd0
  244 364 241 405 236 446 c 0
  234 470 232 494 232 518 c 0
  232 534 233 551 235 568 c 0
@@ -5676,7 +5691,7 @@ SplineSet
  458 701 479 688 496 668 c 0
  497 667 498 665 498 663 c 0
  498 646 450 606 430 606 c 0
- 427 606 425 606 424 608 c 0
+ 427 606 425 606 424 608 c 0xe0
 EndSplineSet
 Validated: 1
 EndChar
