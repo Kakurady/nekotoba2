@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Q.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="691"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.28468736"
+     inkscape:cx="149.60573"
+     inkscape:cy="348.95"
+     inkscape:window-x="6"
+     inkscape:window-y="128"
+     inkscape:current-layer="svg5496"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498" />
+  <path
+     style="fill:#4d4d4d;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 388.21875 153 C 315.10675 155.78324 248.78675 186.78561 191.96875 231.71875 C 179.42075 241.64195 167.916 252.77928 155.875 263.3125 C 98.541998 319.62723 53.90875 387.44271 27.09375 463.34375 C 22.24375 477.07133 18.6555 491.22159 14.4375 505.15625 C 0.63649963 564.61463 -6.2805 627.43647 7.8125 687.625 C 10.2095 697.86183 13.91175 707.7532 16.96875 717.8125 C 39.02375 771.78888 82.331998 806.62892 139.875 816.90625 C 151.596 818.99953 163.5835 819.16421 175.4375 820.28125 C 251.0425 821.04769 322.7695 797.97001 390.9375 767.34375 C 401.15201 762.5554 411.04556 757.32094 420.59375 751.65625 C 438.78268 764.62206 457.27442 777.17242 475.6875 789.75 C 499.6455 808.79627 529.35875 822.31685 549.96875 845.4375 C 564.02175 859.34286 629.58325 793.09286 615.53125 779.1875 C 588.73525 753.96309 557.08625 734.93302 526.78125 714.28125 C 515.9446 707.01051 505.07964 699.74999 494.28125 692.375 C 498.83345 687.50978 503.25891 682.51117 507.5625 677.34375 C 512.38755 671.27375 503.92598 658.57869 491.21875 646.4375 C 523.01556 601.46054 547.30328 552.18756 565.59375 499.8125 C 582.79875 438.06237 589.03775 372.39682 574.09375 309.40625 C 571.18375 297.1377 566.63025 285.29648 562.90625 273.25 C 538.01825 213.50579 492.1585 168.35226 426.9375 156.25 C 414.2075 153.88796 401.11975 154.08334 388.21875 153 z M 382.4375 243.53125 C 429.0375 244.8301 455.9525 257.32482 476.8125 301.15625 C 497.0445 359.60336 496.561 410.73296 480.25 470.40625 C 462.0098 524.19935 435.36891 573.66542 399.09375 617.46875 C 399.01985 617.39694 398.94886 617.32187 398.875 617.25 C 379.432 596.8033 358.2655 575.09153 351.3125 546.8125 C 348.3825 527.16588 255.7585 540.97839 258.6875 560.625 C 268.7265 608.49677 299.98925 645.65418 332.78125 680.125 C 333.9705 681.28574 335.17517 682.41439 336.375 683.5625 C 332.0438 687.13744 327.58051 690.57064 322.96875 693.8125 C 321.16177 695.02514 320.20427 697.04924 319.90625 699.65625 C 276.18382 717.12095 230.52486 729.24938 182.90625 729.6875 C 149.51125 727.57302 119.41575 722.98209 103.84375 689.78125 C 85.565748 638.07087 88.028498 583.53866 100.3125 530.5 C 122.6295 452.44747 155.72225 387.51091 214.65625 330.1875 C 262.93425 287.48535 315.8735 248.46886 382.4375 243.53125 z "
+     id="path4454" />
+</svg>
