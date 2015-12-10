@@ -6,7 +6,7 @@ Weight: Medium
 Copyright: Created by Kakurady Drakenar
 UComments: "2011-2-6: Created." 
 FontLog: "Added some kerning (the Pom is driving me cray cray)" 
-Version: 0.001
+Version: 0.003
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -16,17 +16,18 @@ LayerCount: 2
 Layer: 0 0 "+gMxmbwAA"  1
 Layer: 1 0 "+Uk1mbwAA"  0
 XUID: [1021 714 1846167163 3381055]
-FSType: 8
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1297048171
-ModificationTime: 1449756419
-PfmFamily: 17
+ModificationTime: 1449756648
+PfmFamily: 65
 TTFWeight: 500
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
+Panose: 3 8 7 2 0 0 0 0 0 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -42,6 +43,7 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0"  {"'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-2" [153,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 7 3 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-2" 
  1 P
@@ -63,6 +65,9 @@ AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 129
 WinInfo: 437 23 13
+BeginPrivate: 1
+BlueValues 32 [-56 16 407 444 562 609 635 687]
+EndPrivate
 TeXData: 1 0 0 331350 165675 110450 387875 1048576 110450 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 65536 789
 
@@ -433,7 +438,7 @@ SplineSet
  90 90 91 56 94 22 c 1
  93 22 94 13 96 7 c 1
  96 6 l 2
- 96 5 96 4 96 4 c 2
+ 96 4 l 2
 EndSplineSet
 Validated: 1
 Kerns2: 93 -121 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
@@ -1290,7 +1295,7 @@ SplineSet
 795 632 m 0
  795 630 795 629 794 628 c 0
  791 622 782 600 782 596 c 0
- 782 595 782 595 782 595 c 1
+ 782 595 l 1
  768 547 754 499 739 452 c 0
  711 366 683 280 654 194 c 0
  632 130 611 65 584 3 c 1
@@ -24959,7 +24964,7 @@ SplineSet
  588 124 589 124 588 124 c 0
  575 124 560 167 560 192 c 0
  560 201 561 208 566 209 c 1
- 566 208 566 207 566 207 c 1
+ 566 207 l 1
  566 207 567 207 569 208 c 0
  593 224 612 246 632 267 c 2
  638 273 l 1
@@ -25360,7 +25365,7 @@ StartChar: uni5427
 Encoding: 21543 21543 312
 Width: 874
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -25462,6 +25467,7 @@ SplineSet
  162 341 136 389 136 411 c 0
  136 416 138 420 141 421 c 0
 EndSplineSet
+Validated: 33
 EndChar
 
 StartChar: uni5F69
@@ -72601,23 +72607,12 @@ EndChar
 
 StartChar: uni7A7F
 Encoding: 31359 31359 743
-Width: 1363
+Width: 942
 VWidth: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-965 156 m 0
- 1055 167 1172 193 1262 193 c 0
- 1278 193 1294 192 1308 190 c 0
- 1315 189 1317 178 1317 163 c 0
- 1317 138 1309 104 1298 104 c 2
- 1297 104 l 1
- 1280 106 1290 107 1269 107 c 0
- 1265 107 1260 107 1256 107 c 0
- 1158 107 1065 82 976 69 c 1
- 965 69 956 103 956 128 c 0
- 956 143 958 155 965 156 c 0
 460 114 m 1
  461 131 l 1
  453 130 l 1
@@ -72723,7 +72718,6 @@ SplineSet
  688 488 l 1
  725 575 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uni5085
