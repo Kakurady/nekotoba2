@@ -802,7 +802,7 @@ SplineSet
  45 274 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -81 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: underscore
@@ -1644,6 +1644,7 @@ SplineSet
  274 598 290 591 305 575 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -149 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: a
@@ -1698,7 +1699,7 @@ SplineSet
  316 232 319 247 322 262 c 1
 EndSplineSet
 Validated: 1
-Kerns2: 79 -121 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -121 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: b
@@ -1747,7 +1748,7 @@ SplineSet
  69 635 77 638 88 638 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -113 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: c
@@ -1784,7 +1785,7 @@ SplineSet
  368 309 367 309 366 310 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -66 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -113 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -66 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: d
@@ -1835,7 +1836,7 @@ SplineSet
  345 291 343 292 342 294 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -77 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -31 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -77 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: e
@@ -1885,7 +1886,7 @@ SplineSet
  310 448 l 2
 EndSplineSet
 Validated: 1
-Kerns2: 79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -87 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: f
@@ -1989,7 +1990,7 @@ SplineSet
  143 381 194 396 245 396 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -22 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -50 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -22 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: h
@@ -2033,7 +2034,7 @@ SplineSet
  21 627 37 631 55 631 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -110 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -87 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -110 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: i
@@ -2069,7 +2070,7 @@ SplineSet
  121 318 115 295 112 220 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -154 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -154 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: j
@@ -2107,6 +2108,7 @@ SplineSet
  200 412 206 410 207 406 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -81 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: k
@@ -2152,7 +2154,7 @@ SplineSet
  386 -59 385 -59 384 -59 c 2
 EndSplineSet
 Validated: 1
-Kerns2: 79 -66 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  37 -47 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  93 -77 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -56 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -66 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  37 -47 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  93 -77 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: l
@@ -2178,6 +2180,7 @@ SplineSet
  195 615 194 614 194 613 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -137 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: m
@@ -2235,7 +2238,7 @@ SplineSet
  424 366 433 367 442 369 c 1
 EndSplineSet
 Validated: 1
-Kerns2: 79 -121 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -125 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -121 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: n
@@ -2275,7 +2278,7 @@ SplineSet
  260 416 l 2
 EndSplineSet
 Validated: 1
-Kerns2: 37 -31 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  52 -33 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  52 -44 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -165 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -125 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  37 -31 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  52 -33 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  52 -44 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -165 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: o
@@ -2320,7 +2323,7 @@ SplineSet
  156 389 191 409 232 410 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -132 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -113 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -132 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: p
@@ -2365,7 +2368,7 @@ SplineSet
  92 405 117 406 142 406 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -121 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -94 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -121 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: q
@@ -2462,6 +2465,7 @@ SplineSet
  266 450 290 453 314 453 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -119 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: s
@@ -2512,6 +2516,7 @@ SplineSet
  203 410 237 420 271 420 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -125 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: t
@@ -2556,7 +2561,7 @@ SplineSet
  188 507 235 491 235 477 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 53 -44 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  37 -22 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  93 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -207 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  53 -44 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  37 -22 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  93 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: u
@@ -2603,6 +2608,7 @@ SplineSet
  69 407 71 408 73 408 c 1
 EndSplineSet
 Validated: 1
+Kerns2: 81 -94 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: v
@@ -2634,7 +2640,7 @@ SplineSet
  102 377 110 375 111 370 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -66 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -94 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -66 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: w
@@ -2692,7 +2698,7 @@ SplineSet
  420 464 421 463 422 462 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -132 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -131 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -132 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: x
@@ -2740,6 +2746,7 @@ SplineSet
  376 444 399 393 399 369 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -56 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: y
@@ -2779,6 +2786,7 @@ SplineSet
  382 343 376 380 401 385 c 1
 EndSplineSet
 Validated: 1
+Kerns2: 81 -144 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: z
@@ -2825,7 +2833,7 @@ SplineSet
  83 377 101 425 115 425 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -77 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -119 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -77 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: braceleft
@@ -3089,7 +3097,7 @@ SplineSet
  496 644 501 646 507 646 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -88 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -138 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -88 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: dollar
@@ -3156,6 +3164,7 @@ SplineSet
  235 550 249 554 265 554 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -94 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: percent
@@ -3235,6 +3244,7 @@ SplineSet
  493 550 494 551 496 551 c 2
 EndSplineSet
 Validated: 1
+Kerns2: 81 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: ampersand
@@ -3290,6 +3300,7 @@ SplineSet
  170 498 213 528 264 541 c 1
 EndSplineSet
 Validated: 1
+Kerns2: 81 -56 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: quotesingle
@@ -3339,6 +3350,7 @@ SplineSet
  188 509 186 502 182 501 c 1
 EndSplineSet
 Validated: 1
+Kerns2: 81 -119 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: parenright
@@ -3366,6 +3378,7 @@ SplineSet
  120 622 124 621 125 619 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -94 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: asterisk
@@ -3409,6 +3422,7 @@ SplineSet
  206 641 232 635 232 625 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: plus
@@ -3452,6 +3466,7 @@ SplineSet
  312 520 l 2
 EndSplineSet
 Validated: 1
+Kerns2: 81 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: comma
@@ -3495,7 +3510,7 @@ SplineSet
  174 86 188 83 189 75 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -220 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -194 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -220 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: slash
@@ -3569,7 +3584,7 @@ SplineSet
  229 304 227 299 224 298 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -143 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -131 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -143 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: one
@@ -3602,7 +3617,7 @@ SplineSet
  104 423 117 427 129 427 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -176 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -157 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -158 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: two
@@ -3650,7 +3665,7 @@ SplineSet
  234 530 l 2
 EndSplineSet
 Validated: 1
-Kerns2: 79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -50 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -99 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: three
@@ -3754,7 +3769,7 @@ SplineSet
  220 368 271 334 271 318 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -176 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -175 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -176 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: five
@@ -3859,7 +3874,7 @@ SplineSet
  335 531 334 528 331 526 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -154 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -144 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -154 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: seven
@@ -3902,7 +3917,7 @@ SplineSet
  310 431 313 431 315 431 c 2
 EndSplineSet
 Validated: 1
-Kerns2: 79 -110 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -87 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -110 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: eight
@@ -3961,7 +3976,7 @@ SplineSet
  170 546 217 561 268 562 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 79 -165 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
+Kerns2: 81 -100 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1"  79 -165 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: nine
@@ -4159,6 +4174,7 @@ SplineSet
  40 329 50 328 71 328 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -87 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: greater
@@ -4321,6 +4337,7 @@ SplineSet
  20 288 20 290 22 291 c 0
 EndSplineSet
 Validated: 1
+Kerns2: 81 -81 "'kern' +bDRec1OLfykA (+YslOAWWHTi0A) +Z+VifgAA 0-1" 
 EndChar
 
 StartChar: space
