@@ -5,8 +5,8 @@ FamilyName: Nekotoba2
 Weight: Medium
 Copyright: Created by Kakurady Drakenar
 UComments: "2011-2-6: Created." 
-FontLog: "Added some kerning (the Pom is driving me cray cray)" 
-Version: 0.003
+FontLog: "A handwriting font I started to make in 2011. Drew characters in Inkscape using Wacom tablet and imported them into Fontforge. +AAoACgAA-Covers ASCII and a few smattering of punctuations and symbols, and intending to cover all [HSK list of characters](https://en.wiktionary.org/wiki/Appendix:HSK_list_of_Mandarin_words) and eventually all of [GB 2312](https://en.wikipedia.org/wiki/GB_2312). +AAoACgAA-The effort fizzled out because converting from Inkscape's Beizer curves to .ttf cubic Beizer curves for thousands of character is too time consuming, especially when Fontforge keeps complaining +ACIA-Confusion wiggles!+ACIA repeatedly. ([I'm not kidding about +ACIA-Confusion wiggles!+ACIA, it's a real error in Fontforge.](https://github.com/fontforge/fontforge/blob/decc0dcb803206e99910ba1331573d568222d40c/fontforge/splinestroke.c#L3151-L3154))+AAoACgAA-And now I am hesitant to add new characters because I forgot the Inkscape settings I used. It's still the most legible font I made, but the kerning is not perfect, so I'd sometimes need to adjust it. +AAoACgAA## Principles ##+AAoA-- Display font suitable for comics, games, and titling your blog posts (actually really bad because of small x-height)+AAoA-- Give CJK characters variable width. Chinese +ACIA-block characters+ACIA is a limitation of movable type technology, and that's so 11th century.+AAoA-- use slightly curved basic strokes, not straight lines+AAoA-- slight pressure sensitivity, slight rounded corners+AAoACgAA## Changelog ##+AAoA-2011-2-6: Created.+AAoACgAA-2016-11-16: Wanted to use this to type +ACIA-Lumen+ACIA but kerning looked off. Fixed that. Thought I should upload to GitHub. So, bump version for GitHub release." 
+Version: 0.4
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1297048171
-ModificationTime: 1449758141
+ModificationTime: 1479332979
 PfmFamily: 65
 TTFWeight: 500
 TTFWidth: 5
@@ -77,7 +77,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 129
-WinInfo: 0 23 13
+WinInfo: 23 23 13
 BeginPrivate: 1
 BlueValues 32 [-56 16 407 444 562 609 635 687]
 EndPrivate
